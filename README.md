@@ -8,7 +8,7 @@
  </summary>
   <div class="content">
 
-    **In a building process...**
+    <b>In a building process...</b>
 
   </div>
 </details>
