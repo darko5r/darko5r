@@ -6,8 +6,7 @@
   <summary>Click to expand</summary>
   <div class="content">
 
-    |my text |
-    |-------------|--------------|
+    my text
 
   </div>
 </details>
