@@ -5,7 +5,7 @@
 <details>
 <summary>
 
-#### ![](https://img.shields.io/static/v1?label=&message=!expand&color=blue)
+#### `!expand`
 
 </summary>
 
