@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo=darko5r.github.io&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/darko5r/cleanpack-script">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo= cleanpack-script&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo=cleanpack-script&theme=transparent&hide_border=true" />
 </a>
 
 
