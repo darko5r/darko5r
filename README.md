@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-<table><a href="https://github.com/darko5r/darko5r">  
+<table align="center"><a href="https://github.com/darko5r/darko5r">  
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&theme=blue-green" /></table>
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=darko5r&theme=blue-green)](https://github.com/darko5r/github-readme-streak-stats)
