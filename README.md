@@ -9,16 +9,7 @@
 
 </summary>
 
-Hi.
+Check later...
 
-</details>
-
-<details>
-    <summary>!expand</summary>
-  <div class="content">
-
-    In a building process...
-
-  </div>
 </details>
 
