@@ -4,35 +4,7 @@
 
 <details>
   <summary>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-    <style>
-      .collapsible {
-        background-color: #777;
-        color: white;
-        cursor: pointer;
-        padding: 18px;
-        width: 100%;
-        border: none;
-        text-align: left;
-        outline: none;
-        font-size: 15px;
-      }
-
-      .active, .collapsible:hover {
-        background-color: #555;
-      }
-
-      .content {
-        padding: 0 18px;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.2s ease-out;
-        background-color: #f1f1f1;
-      }
-    </style>
-
-    <button class="collapsible">Click to expand</button>
+    
   </summary>
   <div class="content">
     Your collapsed content goes here...
