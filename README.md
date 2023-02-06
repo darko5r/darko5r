@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darko5r&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darko5r&theme=transparent&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=dark)
 
@@ -15,3 +15,4 @@ First Header | Second Header
  ------------ | ------------- 
 Content from cell 1 | Content from cell 2 
 Content in the first column | content in the second column 
+
