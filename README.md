@@ -19,10 +19,10 @@
 </table>
 
 <details>
-<summary>
+  <summary>
 
-</summary>
+  </summary>
 
-Check later...
+      Check later...
 
 </details>
