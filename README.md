@@ -1,6 +1,6 @@
-<table border="0">
-  <tr border="0">
-    <td border="0">
+<table>
+  <tr>
+    <td>
       <a href="https://github.com/darko5r">  
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=darko5r&theme=transparent&show_icons=true&hide_border=true&text_bold=true&card_width=200" /> 
       </a> 
