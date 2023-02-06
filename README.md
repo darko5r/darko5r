@@ -21,8 +21,6 @@
 <details>
 <summary>
 
-_______
-
 </summary>
 
 Check later...
