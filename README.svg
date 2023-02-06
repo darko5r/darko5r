@@ -17,18 +17,6 @@
           outline: none;
           font-size: 15px;
         }
-
-        .content {
-          padding: 0 18px;
-          max-height: 0;
-          overflow: hidden;
-          transition: max-height 0.2s ease-out;
-          background-color: #f1f1f1;
-        }
-
-        input[type="checkbox"]:checked + label + .content {
-          max-height: 500px;
-        }
       </style>
 
       <input type="checkbox" id="collapsible1">
