@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=transparent&hide_border=true&text_bold=true)
 
 <details>
-  <b>!expand</b></summary>
+  <summary style="font-weight: bold;">!expand</summary>
   <div class="content">
 
     In a building process...
