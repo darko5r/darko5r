@@ -3,19 +3,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=dark)
 
 <details>
-  <summary>
-    Content
-  </summary>
+  <summary>Click to expand</summary>
   <div class="content">
-Content
+    First Header | Second Header
+    ------------ | -------------
+    Content from cell 1 | Content from cell 2
+    Content in the first column | content in the second column
   </div>
-  First Header | Second Header 
- ------------ | ------------- 
-Content from cell 1 | Content from cell 2 
-Content in the first column | content in the second column 
 </details>
 
-First Header | Second Header 
- ------------ | ------------- 
-Content from cell 1 | Content from cell 2 
-Content in the first column | content in the second column 
+
