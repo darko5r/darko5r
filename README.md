@@ -18,8 +18,6 @@
   </tr>
 </table>
 
-[![Sparkline](https://github.com/darko5r/darko5r)](https://github.com/darko5r/darko5r)
-
 <details>
   <summary>
 
