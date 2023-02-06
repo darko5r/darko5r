@@ -5,7 +5,7 @@
 <details>
 <summary>
 
-#### `!expand`
+#### ```diff ! expand
 
 </summary>
 
