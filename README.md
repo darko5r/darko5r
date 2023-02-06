@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td>
       <a href="https://github.com/darko5r">  
