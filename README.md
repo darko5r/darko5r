@@ -6,5 +6,7 @@
   <summary>
     Content
   </summary>
- 
+  <div class="content">
+    Your collapsed content goes here...
+  </div>
 </details>
