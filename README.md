@@ -5,7 +5,7 @@
 <details>
 <summary>
 
-#### Markdown *in* `summary`
+#### `!expand`
 
 </summary>
 
