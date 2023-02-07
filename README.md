@@ -34,7 +34,7 @@
   <tr>
     <td>
       <a href="https://github.com/darko5r/darko5r.github.io">  
-         <img align="center" src="https://metrics.lecoq.io/darko5r?template=classic&base.header=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Europe%2FBerlin&font_color=ff5733" /> 
+         <img align="center" src="https://metrics.lecoq.io/darko5r?template=classic&base.header=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Europe%2FBerlin&font_color=#ff5733" /> 
       </a>
     </td>
   </tr>
