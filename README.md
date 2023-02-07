@@ -22,13 +22,11 @@
   <tr>
     <td>
       <a href="https://github.com/darko5r/darko5r">          
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=darko5r&theme=merko&background=FFFFFF00&hide_border=true&text_bold=true&card_width=200"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=darko5r&theme=tokyonight&background=FFFFFF00&hide_border=true&text_bold=true&card_width=200"/>
       </a>
     </td>
   </tr>
 </table>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darko5r&theme=merko&background=FFFFFF00)](https://git.io/streak-stats)
 
 <details>
   <summary>
