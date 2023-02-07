@@ -28,6 +28,8 @@
   </tr>
 </table>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darko5r&background=FFFFFF00)](https://git.io/streak-stats)
+
 <details>
   <summary>
 
