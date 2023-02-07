@@ -35,8 +35,14 @@
   50% { border-color: orange }
 }
             </style>
-            <h1>HELLO WORLD!</h1>
         </div>
+        
+
+<div class="typewriter">
+  <h1>The cat and the hat.</h1>
+</div>
+
+
     </foreignObject>
 </svg>
 
