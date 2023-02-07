@@ -48,7 +48,3 @@
 Check later...
   
 </details>
-
-
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darko5r&theme=tokyonight&background=FFFFFF00&hide_border=true
