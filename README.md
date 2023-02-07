@@ -24,7 +24,7 @@
   <tr>
     <td>
       <a href="https://github.com/darko5r/darko5r"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=transparent&hide_border=true&text_bold=true&card_width=280" /> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=transparent&hide_border=true&text_bold=true&text_color=727272&card_width=280" /> 
       </a>
     </td>
   </tr>
