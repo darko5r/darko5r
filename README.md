@@ -29,7 +29,7 @@
     </td>
     <td>
       <a href="https://github.com/darko5r/darko5r.github.io">  
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darko5r&theme=transparent&hide_border=true" /> 
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darko5r&theme=tokyonight&hide_border=true" /> 
       </a>
     </td>
   </tr>
