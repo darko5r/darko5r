@@ -18,8 +18,11 @@
   </tr>
 </table>
 
-<table align="center"><a href="https://github.com/darko5r/darko5r">  
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&theme=blue-green&hide_border=true&text_bold=true" /></table>
+<table align="center">
+  <a href="https://github.com/darko5r/darko5r">          
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&theme=blue-green&hide_border=true&text_bold=true" />
+  </a>
+</table>
 
 <details>
   <summary>
