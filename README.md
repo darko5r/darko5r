@@ -22,7 +22,7 @@
   <tr>
     <td>
       <a href="https://github.com/darko5r/darko5r">          
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&hide_border=true&text_bold=true&card_width=200&background=FFFFFF00#gh-light-mode-only" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&hide_border=true&text_bold=true&card_width=200" />
       </a>
     </td>
   </tr>
