@@ -33,7 +33,7 @@
 
   </summary>
 
-     Check later...
+lock Add ProtonMail badge
 
 </details>
 
