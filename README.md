@@ -29,6 +29,18 @@
 </table>
 
 <p align="center">
+      <a href="https://github.com/darko5r">  
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=darko5r&theme=transparent&show_icons=true&hide_border=true&text_bold=true&card_width=200" /> 
+      </a> 
+      <a href="https://github.com/darko5r">  
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=darko5r&theme=tokyonight&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100"/> 
+      </a>  
+      <a href="https://github.com/darko5r/darko5r.github.io">  
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo=darko5r.github.io&theme=transparent&hide_border=true" /> 
+      </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/darko5r/darko5r"> 
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=transparent&hide_border=true&text_bold=true&card_width=280" /> 
       </a>
