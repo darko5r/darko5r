@@ -44,7 +44,7 @@ Check later...
   
 </details>
 
-<table border="0" width="500" align="center">
+<table border="0" width="500">
   <tr border="0">
     <td border="0">
       
