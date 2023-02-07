@@ -45,6 +45,6 @@
 
   </summary>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=500&lines=Check+later...+README.md+is+not+finished.+Need++;more+time+to+finish+it+up!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=500&lines=Check+later...+README.md+is+not+finished.+Need++more+time+to+finish+it+up!;Thx+4+ur+patience!" alt="Typing SVG" /></a>
   
 </details>
