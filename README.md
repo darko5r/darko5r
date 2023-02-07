@@ -4,7 +4,7 @@
   <tr border="0">
     <td border="0">
       <a href="https://github.com/darko5r">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=darko5r&theme=transparent&show_icons=true&hide_border=true&text_bold=true&card_width=200" /> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=darko5r&theme=transparent&show_icons=true&hide_border=true&text_bold=true&card_width=200&text_color=#ff5733" /> 
       </a> 
     </td>
     <td>
@@ -34,7 +34,7 @@
   <tr>
     <td>
       <a href="https://github.com/darko5r/darko5r.github.io">  
-         <img align="center" src="https://metrics.lecoq.io/darko5r?template=classic&base.header=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Europe%2FBerlin&font_color=#ff5733" /> 
+         <img align="center" src="https://metrics.lecoq.io/darko5r?template=classic&base.header=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Europe%2FBerlin" /> 
       </a>
     </td>
   </tr>
