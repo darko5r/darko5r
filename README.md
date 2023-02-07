@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darko5r&theme=radical&hide_border=true)
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darko5r&theme=radical&hide_border=true)
 
 <details>
   <summary>
