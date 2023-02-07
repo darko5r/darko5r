@@ -49,7 +49,7 @@
     </td>
     <td>
       <a href="https://github.com/darko5r/darko5r.github.io">  
-        <img align="center" src="" /> 
+        <img src="https://metrics.lecoq.io/darko5r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=https%3A%2F%2Fdarko5r.github.io%2F&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=true&config.timezone=Europe%2FBerlin" /> 
       </a>
     </td>
   </tr>
