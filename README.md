@@ -22,7 +22,7 @@
   <tr>
     <td>
       <a href="https://github.com/darko5r/darko5r">          
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&theme=transparent&hide_border=true&text_bold=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&theme=transparent&hide_border=true&text_bold=true&card_width=280" />
       </a>
     </td>
   </tr>
@@ -33,6 +33,6 @@
 
   </summary>
 
-      Check later...
+      Check later...&theme=blue-green
 
 </details>
