@@ -27,6 +27,11 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=transparent&hide_border=true&text_bold=true&card_width=280" /> 
       </a>
     </td>
+    <td>
+      <a href="https://github.com/darko5r/darko5r.github.io">  
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darko5r&theme=radical&hide_border=true" /> 
+      </a>
+    </td>
   </tr>
 </table>
 
