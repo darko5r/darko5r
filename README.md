@@ -22,7 +22,8 @@
   <tr>
     <td>
       <a href="https://github.com/darko5r/darko5r">          
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&hide_border=true&text_bold=true&card_width=200&bg_color=00000000" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&hide_border=true&text_bold=true&card_width=200&bg_color=00000000#gh-light-mode-only" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=darko5r&theme=blue-green&hide_border=true&text_bold=true&card_width=200#gh-dark-mode-only" />
       </a>
     </td>
   </tr>
