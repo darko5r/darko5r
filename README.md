@@ -12,7 +12,7 @@
     </td>
     <td>
       <a href="https://github.com/darko5r/darko5r.github.io">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo=darko5r.github.io&theme=tokyonight&background=FFFFFF00&hide_border=true" /> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo=darko5r.github.io&theme=transparent&hide_border=true" /> 
       </a>
     </td>
   </tr>
