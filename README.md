@@ -1,3 +1,5 @@
+<h2 align="center">Stats</h2>
+
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr border="0">
     <td border="0">
@@ -27,12 +29,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/darko5r/darko5r"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=transparent&hide_border=true&text_bold=true&card_width=280" /> 
-      </a>
-  </p>
 
 <details>
   <summary>
