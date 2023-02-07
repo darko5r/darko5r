@@ -7,7 +7,7 @@
     </td>
     <td>
       <a href="https://github.com/darko5r">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=transparent&hide_border=true&text_bold=true&card_width=280" /> 
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=darko5r&theme=tokyonight&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100"/> 
       </a>  
     </td>
     <td>
@@ -21,8 +21,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darko5r/darko5r">          
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=darko5r&theme=tokyonight&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100"/>
+      <a href="https://github.com/darko5r/darko5r"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko5r&layout=compact&theme=transparent&hide_border=true&text_bold=true&card_width=280" /> 
       </a>
     </td>
   </tr>
