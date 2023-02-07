@@ -30,7 +30,6 @@
   </tr>
 </table>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=darko5r)](https://github.com/anuraghazra/readme-components)
 
 <details>
   <summary>
