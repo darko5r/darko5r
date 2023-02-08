@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <a href="https://github.com/darko5r/darko5r.github.io">  
