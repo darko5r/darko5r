@@ -50,7 +50,14 @@
   </tr>
 </table> -->
 
-<img src="https://count.getloli.com/get/@darko5r?theme=moebooru" alt="darko5r" />
+<table align="center">
+  <tr>
+    <td>
+        <img align="center" src="https://count.getloli.com/get/@darko5r?theme=moebooru" alt="darko5r" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>
