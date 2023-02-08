@@ -50,6 +50,8 @@
   </tr>
 </table> -->
 
+<img src="https://count.getloli.com/get/@darko5r?theme=moebooru" alt="darko5r" />
+
 <details>
   <summary>
 
