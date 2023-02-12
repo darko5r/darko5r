@@ -46,7 +46,7 @@
   
 </details>
 
-<table>
+<table align="center">
   <tr>
     <th align="center">For user accounts</th>
     <th align="center">For organization accounts</th>
