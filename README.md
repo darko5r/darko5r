@@ -23,9 +23,7 @@
 <table align="center">
   <tr>
     <td>
-    <!--  <a href="https://github.com/darko5r/darko5r"> -->
-        <img align="center" src="https://metrics.lecoq.io/darko5r?template=classic&languages=1&languages=false&languages.limit=200&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=true&languages.analysis.timeout=5&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin"  /> 
-      <!-- </a> -->
+    [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/darko5r/d75593332733f32b61419ad249955fe5/raw/31ea921dcae7da3aa172f89a7ce4f70017937057/metrics_lang.svg">](https://github.com/darko5r)
     </td>
   </tr>
 </table>
@@ -65,5 +63,3 @@
    <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=1000&lines=Check+later...+README.md+is+not+finished+yet.+Need+more+time+to+finish+it+up.;Thx+4+ur+patience+amigos!" alt="Typing SVG" /></a></h2>
   
 </details>
-
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/darko5r/d75593332733f32b61419ad249955fe5/raw/31ea921dcae7da3aa172f89a7ce4f70017937057/metrics_lang.svg">](https://github.com/darko5r)
