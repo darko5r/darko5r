@@ -1,5 +1,5 @@
 <table border="0" cellspacing="0" cellpadding="0" align="center">
-  <th align="center"><h2 align="center">Stats</h2>
+  <th align="center"><h2 align="center">Stats</h2></th>
   <tr border="0">
     <td border="0">
       <a href="https://github.com/darko5r">  
