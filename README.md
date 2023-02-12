@@ -1,4 +1,8 @@
-<h2 align="center">Stats</h2>
+<table align="center">
+  <tr>
+    <th align="center"><h2 align="center">Stats</h2></th>
+  </tr>
+  </table>
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr border="0">
@@ -58,8 +62,5 @@
 <td align="center">
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 </td>
-  </tr>
-  <tr>
-    
   </tr>
   </table>
