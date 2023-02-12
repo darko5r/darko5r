@@ -45,3 +45,27 @@
    <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=1000&lines=Check+later...+README.md+is+not+finished+yet.+Need+more+time+to+finish+it+up.;Thx+4+ur+patience+amigos!" alt="Typing SVG" /></a></h2>
   
 </details>
+
+<table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+</td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h3><a href="/README.md#-plugins">🧩 Customizable with 44 plugins and 314 options!</a></h3>
+    </th>
+  </tr>
+  <tr>
+    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
+  </tr>
+  </table>
