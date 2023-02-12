@@ -53,8 +53,7 @@
 <table align="center">
   <tr>
     <td>
-        <img align="center" src="https://count.getloli.com/get/@darko5r?theme=moebooru" alt="darko5r" />
-      </a>
+        <img align="center" src="https://count.getloli.com/get/@darko5r?theme=moebooru" />
     </td>
   </tr>
 </table>
