@@ -1,6 +1,6 @@
 <table border="0" cellspacing="0" cellpadding="0" align="center">
+  <th align="center"><h2 align="center">Stats</h2>
   <tr border="0">
-     <th align="center"><h2 align="center">Stats</h2>
     <td border="0">
       <a href="https://github.com/darko5r">  
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=darko5r&theme=transparent&show_icons=true&hide_border=true&text_bold=true&card_width=200&text_color=727272&icon_color=959da5" /> 
