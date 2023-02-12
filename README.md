@@ -23,7 +23,9 @@
 <table align="center">
   <tr>
     <td>
-    [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/darko5r/d75593332733f32b61419ad249955fe5/raw/31ea921dcae7da3aa172f89a7ce4f70017937057/metrics_lang.svg">](https://github.com/darko5r)
+     <a href="https://github.com/darko5r"> 
+     <img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/darko5r/d75593332733f32b61419ad249955fe5/raw/31ea921dcae7da3aa172f89a7ce4f70017937057/metrics_lang.svg" />
+      </a>
     </td>
   </tr>
 </table>
