@@ -54,9 +54,8 @@
   
   <table border="1" align="center">
         <tr>
-            <th width="50%">NAME</th>
-            <th width="20%">AGE</th>
-            <th width="30%">BRANCH</th>
+            <th width="25%">NAME</th>
+            <th width="25%">AGE</th>
         </tr>
   </table>
     
