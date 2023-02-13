@@ -39,18 +39,18 @@
 <table align="center">
   <tr>
     <td align="center">
-<img alt="" width="350" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="350" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_habits.svg" alt=""></img>
-</td>
+        <img alt="" width="350" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg" alt="🦑"></img>
+    </td>
+    <td align="center">
+        <img alt="" width="350" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_habits.svg" alt="🦑"></img>
+    </td>
   </tr>
-  </table>
+</table>
 
 <details>
   <summary>
 
   </summary>
-   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=1000&lines=Check+later...+README.md+is+not+finished+yet.+Need+more+time+to+finish+it+up.;Thx+4+ur+patience+amigos!" alt="Typing SVG" /></a></h2>
+   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=1000&lines=Check+later...+README.md+is+not+finished+yet.+Need+more+time+to+finish+it+up.;Thx+4+ur+patience+amigos!" alt="🦑" /></a></h2>
   
 </details>
