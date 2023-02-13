@@ -22,7 +22,7 @@
   <tr>
     <td>
      <a href="https://github.com/darko5r"> 
-     <img align="left" width="390" alt="🦑" src="" />
+     <img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_lang.svg" />
       </a>
     </td>
   </tr>
