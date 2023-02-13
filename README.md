@@ -38,8 +38,8 @@
 
 <table align="center">
   <tr>
-    <th align="center"><h4>User stats</h4></th>
-    <th align="center"><h4>Recent coding habits</h4></th>
+    <th align="center"><h6>User stats</th>
+    <th align="center"><h6>Recent coding habits</th>
   </tr>
   <tr>
     <td align="center">
