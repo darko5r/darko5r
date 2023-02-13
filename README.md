@@ -38,10 +38,6 @@
 
 <table align="center">
   <tr>
-    <th align="center" width="50%">User stats</th>
-    <th align="center" width="50%">Recent coding habits</th>
-  </tr>
-  <tr>
     <td align="center">
 <img alt="" width="350" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg" alt=""></img>
 </td>
