@@ -51,10 +51,13 @@
   </tr>
   <tr>
     <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg" alt=""></img>
 </td>
 <td align="center">
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 </td>
   </tr>
   </table>
+
+
+https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg
