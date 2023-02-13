@@ -58,6 +58,3 @@
 </td>
   </tr>
   </table>
-
-
-https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg
