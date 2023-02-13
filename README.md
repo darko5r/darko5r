@@ -58,19 +58,7 @@
             <th width="20%">AGE</th>
             <th width="30%">BRANCH</th>
         </tr>
-  
-        <tr>
-            <td>BITTU</td>
-            <td>22</td>
-            <td>CSE</td>
-        </tr>
-  
-        <tr>
-            <td>RAKESH</td>
-            <td>25</td>
-            <td>EC</td>
-        </tr>
-    </table>
+  </table>
     
     
 
