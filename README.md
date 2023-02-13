@@ -38,8 +38,8 @@
 
 <table align="center">
   <tr>
-    <h6><th align="center" width="30%">User stats</th></h6>
-    <th align="center" width="30%">Recent coding habits</th>
+    <th align="center" width="50%">User stats</th>
+    <th align="center" width="50%">Recent coding habits</th>
   </tr>
   <tr>
     <td align="center">
@@ -50,24 +50,6 @@
 </td>
   </tr>
   </table>
-  
-  
-  <table border="1" align="center">
-        <tr>
-          <th width="25%" font size="6">User stats</th>
-            <th width="25%" font size="6">Recent coding habits</th>
-        </tr>
-        <tr>
-    <td align="center">
-<img alt="" width="350" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="350" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_habits.svg" alt=""></img>
-</td>
-  </tr>
-  </table>
-    
-    
 
 <details>
   <summary>
