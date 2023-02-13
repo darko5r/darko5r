@@ -30,6 +30,14 @@
 
 <table align="center">
   <tr>
+    <td>
+        <img align="center" src="https://count.getloli.com/get/@darko5r?theme=moebooru" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <th align="center" height="10">For user accounts</th>
     <th align="center" height="10">Recent coding habits</th>
   </tr>
@@ -42,14 +50,6 @@
 </td>
   </tr>
   </table>
-
-<table align="center">
-  <tr>
-    <td>
-        <img align="center" src="https://count.getloli.com/get/@darko5r?theme=moebooru" />
-    </td>
-  </tr>
-</table>
 
 <details>
   <summary>
