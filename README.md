@@ -60,7 +60,7 @@
 </details>
 
 
-<table border="1" width="500">
+     <table border="1" width="500">
         <tr>
             <th width="50%">NAME</th>
             <th width="20%">AGE</th>
