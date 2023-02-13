@@ -47,14 +47,14 @@
 <table align="center">
   <tr>
     <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
+    <th align="center">Recent coding habits</th>
   </tr>
   <tr>
     <td align="center">
-<img alt="" width="400" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg" alt=""></img>
+<img alt="" width="300" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_base.svg" alt=""></img>
 </td>
 <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+<img alt="" width="300" src="https://raw.githubusercontent.com/darko5r/darko5r/main/.github/templates/metrics_habits.svg" alt=""></img>
 </td>
   </tr>
   </table>
