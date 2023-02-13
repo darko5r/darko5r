@@ -13,14 +13,12 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        name: Detailed display
+        name: Recent activity charts
         with:
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-          polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-          scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          filename: .github/templates/metrics_achievements.svg
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/Berlin
+          filename: .github/templates/metrics_habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
