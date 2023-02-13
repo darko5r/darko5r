@@ -54,8 +54,8 @@
   
   <table border="1" align="center">
         <tr>
-          <th width="25%">User stats</th>
-            <th width="25%">Recent coding habits</th>
+          <th width="25%" font size="-1">User stats</th>
+            <th width="25%" font size="-1">Recent coding habits</th>
         </tr>
         <tr>
     <td align="center">
