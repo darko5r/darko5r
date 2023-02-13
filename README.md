@@ -54,8 +54,8 @@
   
   <table border="1" align="center">
         <tr>
-            <th width="25%">NAME</th>
-            <th width="25%">AGE</th>
+          <th width="25%"><h6>User stats</h6></th>
+            <th width="25%"><h6>Recent coding habits</h6></th>
         </tr>
         <tr>
     <td align="center">
