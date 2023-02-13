@@ -50,17 +50,9 @@
 </td>
   </tr>
   </table>
-
-<details>
-  <summary>
-
-  </summary>
-   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=1000&lines=Check+later...+README.md+is+not+finished+yet.+Need+more+time+to+finish+it+up.;Thx+4+ur+patience+amigos!" alt="Typing SVG" /></a></h2>
   
-</details>
-
-
-     <table border="1" width="500">
+  
+  <table border="1" width="500">
         <tr>
             <th width="50%">NAME</th>
             <th width="20%">AGE</th>
@@ -79,3 +71,13 @@
             <td>EC</td>
         </tr>
     </table>
+    
+    
+
+<details>
+  <summary>
+
+  </summary>
+   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=1000&lines=Check+later...+README.md+is+not+finished+yet.+Need+more+time+to+finish+it+up.;Thx+4+ur+patience+amigos!" alt="Typing SVG" /></a></h2>
+  
+</details>
