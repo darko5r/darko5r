@@ -39,7 +39,7 @@
 <table align="center">
   <tr>
     <td align="center">
-        <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@<commit-sha>/.github/templates/metrics_base.svg" alt="🦑"></img>
+        <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_base.svg" alt="🦑"></img>
     </td>
     <td align="center">
         <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_habits.svg" alt="🦑"></img>
