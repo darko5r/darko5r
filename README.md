@@ -7,7 +7,7 @@
     </td>
     <td>
       <a href="https://github.com/darko5r">  
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=darko5r&theme=tokyonight_duo&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100"/> 
+        <img src="<img src="https://streak-stats.demolab.com?user=darko5r&theme=tokyonight_duo&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100"/> 
       </a>  
     </td>
     <td>
