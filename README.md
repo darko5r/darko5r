@@ -7,7 +7,7 @@
     </td>
     <td>
       <a href="https://github.com/darko5r">  
-        <img src="https://streak-stats.vercel.app?user=darko5r&theme=tokyonight_duo&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100&v=1" />
+        <img src="https://streak-stats.vercel.app?user=darko5r&theme=tokyonight_duo&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100&v=1" alt="🦑"/>
       </a>
     </td>
     <td>
