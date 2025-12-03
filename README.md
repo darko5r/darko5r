@@ -11,8 +11,8 @@
     ">
       <img
         src="https://streak-stats.vercel.app?user=darko5r&theme=tokyonight_duo&background=00000000&hide_border=true&card_width=260&ring=small"
-        width="280"
-        height="150"
+        width="380"
+        height="204"
         alt="GitHub streak"
         style="border-radius: 12px;"
       />
@@ -27,8 +27,8 @@
     ">
       <img
         src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_lang.svg?v=1"
-        width="280"
-        height="150"
+        width="380"
+        height="204"
         alt="Languages"
         style="border-radius: 12px;"
       />
