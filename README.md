@@ -1,19 +1,7 @@
-
-<!-- Stats -->
-<p align="center">
-  <a href="https://github.com/darko5r">
-    <img
-      src="https://streak-stats.vercel.app?user=darko5r&theme=tokyonight_duo&background=FFFFFF00&hide_border=true"
-      alt="GitHub streak"
-      height="160"
-    />
-  </a>
-</p>
-
-<!-- Counter -->
 <p align="center">
   <img
-    src="https://count.getloli.com/get/@darko5r?theme=moebooru"
-    alt="Profile views"
+    src="https://streak-stats.vercel.app?user=darko5r&mode=weekly&theme=tokyonight_duo&background=FFFFFF00&hide_border=true&ring=small"
+    height="110"
+    alt="GitHub streak"
   />
 </p>
