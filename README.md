@@ -1,3 +1,5 @@
+
+<!-- Stats -->
 <p align="center">
   <a href="https://github.com/darko5r">
     <img
@@ -6,4 +8,12 @@
       height="160"
     />
   </a>
+</p>
+
+<!-- Counter -->
+<p align="center">
+  <img
+    src="https://count.getloli.com/get/@darko5r?theme=moebooru"
+    alt="Profile views"
+  />
 </p>
