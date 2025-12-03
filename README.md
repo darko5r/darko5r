@@ -22,7 +22,7 @@
   <tr>
     <td>
      <a href="https://github.com/darko5r"> 
-     <img align="left" width="390" alt="🦑" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_lang.svg" />
+     <img align="left" width="390" alt="🦑" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_lang.svg?v=2" />
       </a>
     </td>
   </tr>
@@ -39,10 +39,10 @@
 <table align="center">
   <tr>
     <td align="center">
-        <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_base.svg" alt="🦑"></img>
+        <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_base.svg?v=2" alt="🦑"></img>
     </td>
     <td align="center">
-        <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_habits.svg" alt="🦑"></img>
+        <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_habits.svg?v=2" alt="🦑"></img>
     </td>
   </tr>
 </table>
