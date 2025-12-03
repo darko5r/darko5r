@@ -1,56 +1,73 @@
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr border="0">
-    <td border="0">
-      <a href="https://github.com/darko5r">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=darko5r&theme=transparent&show_icons=true&hide_border=true&text_bold=true&card_width=200&text_color=727272&icon_color=959da5" /> 
-      </a> 
-    </td>
-    <td>
-      <a href="https://github.com/darko5r">  
-        <img src="https://streak-stats.vercel.app?user=darko5r&theme=tokyonight_duo&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100&v=1" alt="🦑"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/darko5r/darko5r.github.io">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo=darko5r.github.io&theme=transparent&hide_border=true&text_bold=true&text_color=727272&icon_color=959da5" alt="🦑"/> 
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Stats + streaks -->
+<p align="center">
+  <a href="https://github.com/darko5r">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=darko5r&theme=transparent&show_icons=true&hide_border=true&text_color=727272&icon_color=959da5"
+      alt="GitHub stats"
+      height="160"
+    />
+  </a>
+  <a href="https://github.com/darko5r">
+    <img
+      src="https://streak-stats.vercel.app?user=darko5r&theme=tokyonight_duo&background=FFFFFF00&hide_border=true"
+      alt="GitHub streak"
+      height="160"
+    />
+  </a>
+</p>
 
-<table align="center">
-  <tr>
-    <td>
-     <a href="https://github.com/darko5r"> 
-     <img align="left" width="390" alt="🦑" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_lang.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Pinned repo -->
+<p align="center">
+  <a href="https://github.com/darko5r/darko5r.github.io">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo=darko5r.github.io&theme=transparent&hide_border=true&text_color=727272&icon_color=959da5"
+      alt="Pinned repo"
+    />
+  </a>
+</p>
 
-<table align="center">
-  <tr>
-    <td>
-        <img align="center" src="https://count.getloli.com/get/@darko5r?theme=moebooru" />
-    </td>
-  </tr>
-</table>
+<!-- Languages -->
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_lang.svg?v=1"
+    width="390"
+    alt="Languages"
+  />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-        <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_base.svg" alt="🦑"></img>
-    </td>
-    <td align="center">
-        <img alt="" width="350" src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_habits.svg" alt="🦑"></img>
-    </td>
-  </tr>
-</table>
+<!-- Base + Habits -->
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_base.svg?v=1"
+    width="350"
+    alt="Base metrics"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_habits.svg?v=1"
+    width="350"
+    alt="Habits"
+  />
+</p>
 
+<!-- Counter -->
+<p align="center">
+  <img
+    src="https://count.getloli.com/get/@darko5r?theme=moebooru"
+    alt="Profile views"
+  />
+</p>
+
+<!-- Collapsible message -->
 <details>
-  <summary>
+  <summary>⚙️ README status</summary>
 
-  </summary>
-   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F795&width=1000&lines=Check+later...+README.md+is+not+finished+yet.+Need+more+time+to+finish+it+up.;Thx+4+ur+patience+amigos!!!;The+CSS+design+of+the+CMS+I'am+doin+directly+on+github+will+be+done+on+localhost" alt="🦑" /></a></h2>
-  
+  <h2>
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed+&weight=800&size=18&pause=1000&color=5E14F7&width=1000&lines=Check+later...+README.md+is+not+finished+yet.;Thx+4+ur+patience+amigos!!!;The+CSS+design+will+be+done+on+localhost"
+        alt="Typing"
+      />
+    </a>
+  </h2>
+
 </details>
