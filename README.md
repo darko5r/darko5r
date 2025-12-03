@@ -5,11 +5,3 @@
     alt="GitHub streak"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://count.getloli.com/get/@darko5r?theme=moebooru&grow=0"
-    height="58"
-    alt="Profile views"
-  />
-</p>
