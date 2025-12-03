@@ -11,7 +11,7 @@
 <p align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/darko5r/darko5r@main/.github/templates/metrics_lang.svg?v=1"
-    width="250"
+    width="350"
     alt="Languages"
   />
 </p>
