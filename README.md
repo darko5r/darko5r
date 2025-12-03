@@ -9,7 +9,7 @@
 <p align="center">
   <img
     src="https://count.getloli.com/get/@darko5r?theme=moebooru&grow=0"
-    height="28"
+    height="38"
     alt="Profile views"
   />
 </p>
