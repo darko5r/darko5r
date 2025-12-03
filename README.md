@@ -1,7 +1,5 @@
 <table align="center">
   <tr>
-
-    <!-- Card 1 -->
     <td style="
       padding: 12px;
       border-radius: 16px;
@@ -19,8 +17,6 @@
         style="border-radius: 12px;"
       />
     </td>
-
-    <!-- Card 2 -->
     <td style="
       padding: 12px;
       border-radius: 16px;
