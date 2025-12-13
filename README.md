@@ -13,7 +13,7 @@
     <img
       src="https://streak-stats.vercel.app?user=darko5r&theme=tokyonight_duo&background=00000000&hide_border=true&card_width=260&ring=small"
       width="280"
-      height="150"
+      height="160"
       alt="GitHub streak"
       style="border-radius:12px;"
     />
